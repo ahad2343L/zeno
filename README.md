@@ -95,13 +95,16 @@ Pydantic
 
 All dependencies are listed in requirements.txt.
 
+###
 🤝 Contributing
 Got suggestions or want to contribute?
 Feel free to open an issue or submit a pull request — let’s make Zeno even more powerful together!
 
+###
 📄 License
 This project is open source and available under the MIT License.
 
+###
 💡 Inspiration
 Zeno is named after the Greek philosopher Zeno of Elea — simple ideas, powerful results.
 Just like this template.
