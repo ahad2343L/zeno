@@ -88,23 +88,24 @@ Python 3.9+
 FastAPI
 
 Uvicorn
+
 SQLAlchemy
+
 Pydantic
 
-📌All dependencies are included in requirements.txt.
-
-
+All dependencies are listed in requirements.txt.
 
 🤝 Contributing
-Got suggestions or want to contribute? Feel free to open an issue or submit a pull request. Let’s make Zeno even more powerful together.
+Got suggestions or want to contribute?
+Feel free to open an issue or submit a pull request — let’s make Zeno even more powerful together!
 
-
-
-#📄 License
+📄 License
 This project is open source and available under the MIT License.
 
+💡 Inspiration
+Zeno is named after the Greek philosopher Zeno of Elea — simple ideas, powerful results.
+Just like this template.
 
-#💡 Inspiration
-Zeno is named after the Greek philosopher Zeno of Elea — simple ideas, powerful results. Just like this template.
+
 
 
