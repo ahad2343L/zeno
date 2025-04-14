@@ -1,100 +1,80 @@
-##🚀 Zeno – Scaffold FastAPI Projects in Seconds
+# 🚀 Zeno – Scaffold FastAPI Projects in Seconds
 
-Zeno is a sleek boilerplate generator for FastAPI projects, built to help you skip the repetitive setup and dive straight into building powerful APIs.
+**Zeno** is a sleek boilerplate generator for FastAPI projects, built to help you skip the repetitive setup and dive straight into building powerful APIs.
 
-📁 Project Structure You’ll Love:
-```
-📦 Your FastAPI App
-├── models/      # SQLAlchemy models
-├── routers/     # API routes
-├── schemas/     # Pydantic schemas
-├── services/    # Business logic
-├── deps/        # Dependency overrides
-├── database.py  # DB setup
-├── main.py      # Entry point
-└── requirements.txt
+---
 
-```
+## 📁 Project Structure You’ll Love
 
+📦 Your FastAPI App ├── models/ # SQLAlchemy models ├── routers/ # API routes ├── schemas/ # Pydantic schemas ├── services/ # Business logic ├── deps/ # Dependency overrides ├── database.py # DB setup ├── main.py # Entry point └── requirements.txt
 
-⚡ Features:
+yaml
+Copy
+Edit
 
-Clean architecture out of the box
+---
 
-Scalable and modular folder structure
+## ⚡ Features
 
-JWT-ready, DB-integrated templates
+- ✅ Clean architecture out of the box  
+- 🔁 Scalable and modular folder structure  
+- 🔐 JWT-ready, DB-integrated templates  
+- ⚡ Built for speed and simplicity  
 
-Built for speed and simplicity
+> 🧠 Stop setting up. Start scaling — with **Zeno**.
 
-🧠 Stop setting up. Start scaling—with Zeno.
-
-
+---
 
 ## 🚀 Getting Started
 
-### 1. Create an Empty Project Directory****
+### 1. Create an Empty Project Directory
 
-```
+```bash
 mkdir my-fastapi-app
 cd my-fastapi-app
-```
-
-### 2. Clone the Zeno Boilerplate
-
-```
+2. Clone the Zeno Boilerplate
+bash
+Copy
+Edit
 git clone https://github.com/ahad2343L/zeno .
-```
-
-
-
-### 3. Create and Activate a Virtual Environment
-
-```
+3. Create and Activate a Virtual Environment
+bash
+Copy
+Edit
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-
-```
-
-
-
-### 4. Install the Dependencies
-
-```
+4. Install the Dependencies
+bash
+Copy
+Edit
 pip install -r requirements.txt
-```
-
-
-
-### 5. Run the Zeno Script
-
-```
+5. Run the Zeno Script
+bash
+Copy
+Edit
 python zeno.py
-```
-
-
-
 📌 Requirements
 Python 3.9+
 
 FastAPI
 
 Uvicorn
+
 SQLAlchemy
+
 Pydantic
 
-📌All dependencies are included in requirements.txt.
-
-
+All dependencies are listed in requirements.txt.
 
 🤝 Contributing
-Got suggestions or want to contribute? Feel free to open an issue or submit a pull request. Let’s make Zeno even more powerful together.
+Got suggestions or want to contribute?
+Feel free to open an issue or submit a pull request — let’s make Zeno even more powerful together!
 
-
-
-#📄 License
+📄 License
 This project is open source and available under the MIT License.
 
+💡 Inspiration
+Zeno is named after the Greek philosopher Zeno of Elea — simple ideas, powerful results.
+Just like this template.
 
-#💡 Inspiration
-Zeno is named after the Greek philosopher Zeno of Elea — simple ideas, powerful results. Just like this template.
+
