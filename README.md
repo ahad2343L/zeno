@@ -16,6 +16,7 @@ Zeno is a sleek boilerplate generator for FastAPI projects, built to help you sk
 
 ```
 
+
 ⚡ Features:
 
 Clean architecture out of the box
@@ -27,6 +28,7 @@ JWT-ready, DB-integrated templates
 Built for speed and simplicity
 
 🧠 Stop setting up. Start scaling—with Zeno.
+
 
 
 ## 🚀 Getting Started
@@ -44,6 +46,8 @@ cd my-fastapi-app
 git clone https://github.com/ahad2343L/zeno .
 ```
 
+
+
 ### 3. Create and Activate a Virtual Environment
 
 ```
@@ -52,11 +56,15 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 ```
 
+
+
 ### 4. Install the Dependencies
 
 ```
 pip install -r requirements.txt
 ```
+
+
 
 ### 5. Run the Zeno Script
 
@@ -64,23 +72,29 @@ pip install -r requirements.txt
 python zeno.py
 ```
 
+
+
 📌 Requirements
 Python 3.9+
 
 FastAPI
 
 Uvicorn
-
 SQLAlchemy
-
 Pydantic
 
-All dependencies are included in requirements.txt.
+📌All dependencies are included in requirements.txt.
+
+
 
 🤝 Contributing
 Got suggestions or want to contribute? Feel free to open an issue or submit a pull request. Let’s make Zeno even more powerful together.
 
+
+
 #📄 License
-MIT License
+This project is open source and available under the MIT License.
+
+
 #💡 Inspiration
 Zeno is named after the Greek philosopher Zeno of Elea — simple ideas, powerful results. Just like this template.
